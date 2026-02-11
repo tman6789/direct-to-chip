@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+.venv-*/
+
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+# Build / packaging artifacts
+*.egg-info/
+dist/
+build/
+
+# pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Streamlit
+.streamlit/
+
+# OS files
+Thumbs.db
+Desktop.ini
